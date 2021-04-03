@@ -12,6 +12,9 @@ import java.util.List;
 import java.util.Set;
 import java.util.regex.Pattern;
 
+/**
+ * Spring specific code to extract all Classes in the de.oglimmer package.
+ */
 @Service
 public class ClassFinder {
 

@@ -5,6 +5,9 @@ import com.google.common.eventbus.Subscribe;
 import org.springframework.stereotype.Component;
 
 
+/**
+ * just an example (Guava's EventBus) subscriber for a dto.
+ */
 @Component
 public class MoreLogic {
 

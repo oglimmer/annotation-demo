@@ -4,6 +4,9 @@ import com.google.common.eventbus.EventBus;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * Guava's EventBus
+ */
 @Configuration
 public class EventBusConfiguration {
 
