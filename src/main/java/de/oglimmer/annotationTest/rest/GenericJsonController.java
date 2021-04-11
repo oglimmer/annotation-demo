@@ -1,4 +1,4 @@
-package de.oglimmer.AnnotationTest.rest;
+package de.oglimmer.annotationTest.rest;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -8,8 +8,8 @@ import com.jayway.jsonpath.Configuration;
 import com.jayway.jsonpath.JsonPath;
 import com.jayway.jsonpath.spi.json.JacksonJsonNodeJsonProvider;
 import com.jayway.jsonpath.spi.mapper.JacksonMappingProvider;
-import de.oglimmer.AnnotationTest.configuration.ClassFinder;
-import de.oglimmer.AnnotationTest.logic.JsonPathFilter;
+import de.oglimmer.annotationTest.configuration.ClassFinder;
+import de.oglimmer.annotationTest.logic.JsonPathFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PostMapping;

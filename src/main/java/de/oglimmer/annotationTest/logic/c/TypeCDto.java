@@ -1,6 +1,6 @@
-package de.oglimmer.AnnotationTest.logic.c;
+package de.oglimmer.annotationTest.logic.c;
 
-import de.oglimmer.AnnotationTest.logic.JsonPathFilter;
+import de.oglimmer.annotationTest.logic.JsonPathFilter;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

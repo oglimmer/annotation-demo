@@ -1,4 +1,4 @@
-package de.oglimmer.AnnotationTest.configuration;
+package de.oglimmer.annotationTest.configuration;
 
 
 import lombok.Getter;

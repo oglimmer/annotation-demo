@@ -40,6 +40,6 @@ An incoming JSON with "type" equals "mega-action" should be convert into `TypeAD
 }
 ```
 
-The `de.oglimmer.AnnotationTest.logic.JsonPathFilter` defines a JsonPath string where 
-a some logic in `de.oglimmer.AnnotationTest.rest.GenericJsonController.inferDtoType` 
-and `de.oglimmer.AnnotationTest.rest.GenericJsonController.isJsonValidForFilter` evaluate this JsonPath.
+The `de.oglimmer.annotationTest.logic.JsonPathFilter` defines a JsonPath string where 
+a some logic in `de.oglimmer.annotationTest.rest.GenericJsonController.inferDtoType` 
+and `de.oglimmer.annotationTest.rest.GenericJsonController.isJsonValidForFilter` evaluate this JsonPath.

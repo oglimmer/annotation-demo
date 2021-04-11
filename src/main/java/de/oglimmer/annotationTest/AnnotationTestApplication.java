@@ -1,4 +1,4 @@
-package de.oglimmer.AnnotationTest;
+package de.oglimmer.annotationTest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

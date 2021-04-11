@@ -1,4 +1,4 @@
-package de.oglimmer.AnnotationTest.configuration;
+package de.oglimmer.annotationTest.configuration;
 
 import com.google.common.eventbus.EventBus;
 import org.springframework.context.annotation.Bean;

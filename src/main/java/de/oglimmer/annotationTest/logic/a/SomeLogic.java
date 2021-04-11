@@ -1,4 +1,4 @@
-package de.oglimmer.AnnotationTest.logic.a;
+package de.oglimmer.annotationTest.logic.a;
 
 import com.google.common.eventbus.EventBus;
 import com.google.common.eventbus.Subscribe;

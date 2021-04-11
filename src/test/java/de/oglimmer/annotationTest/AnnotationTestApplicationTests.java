@@ -1,4 +1,4 @@
-package de.oglimmer.AnnotationTest;
+package de.oglimmer.annotationTest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
